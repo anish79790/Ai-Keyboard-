@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI Keyboard</string>
+    <string name="setup_title">Enable AI Keyboard</string>
+    <string name="setup_instructions">To use the AI Keyboard, you need to enable it in your system settings and then select it as your current input method.</string>
+    <string name="enable_keyboard">1. Enable Keyboard</string>
+    <string name="choose_keyboard">2. Choose Keyboard</string>
+    <string name="accessibility_desc">Real-time conversation assistant reads latest chat messages to provide instant smart suggestions for WhatsApp, Instagram, and more.</string>
+</resources>

@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Keycap bezel 3D shadow/base -->
+    <path
+        android:pathData="M 30 26 L 78 26 C 83.5 26, 88 30.5, 88 36 L 88 84 C 88 89.5, 83.5 94, 78 94 L 30 94 C 24.5 94, 20 89.5, 20 84 L 20 36 C 20 30.5, 24.5 26, 30 26 Z"
+        android:fillColor="#FF0F172A" />
+
+    <!-- 3D mechanical slope color -->
+    <path
+        android:pathData="M 30 24 L 78 24 C 83 24, 86 27, 86 32 L 86 80 C 86 85, 83 88, 78 88 L 30 88 C 25 88, 22 85, 22 80 L 22 32 C 22 27, 25 24, 30 24 Z"
+        android:fillColor="#FF2563EB" />
+
+    <!-- Inner Keycap Face -->
+    <path
+        android:pathData="M 32 28 L 76 28 C 80 28, 82 30, 82 34 L 82 76 C 82 80, 80 82, 76 82 L 32 82 C 28 82, 26 80, 26 76 L 26 34 C 26 30, 28 28, 32 28 Z"
+        android:fillColor="#FF3B82F6" />
+
+    <!-- Center active character icon inside keycap -->
+    <path
+        android:pathData="M 46 64 L 49 53 L 59 53 L 62 64 M 54 39 L 42 71 H 47 L 50 61 H 58 L 61 71 H 66 L 54 39 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- AI Sparkle Icon on top-right -->
+    <path
+        android:pathData="M 76 22 L 78 28 L 84 30 L 78 32 L 76 38 L 74 32 L 68 30 L 74 28 Z"
+        android:fillColor="#FF60A5FA" />
+</vector>
